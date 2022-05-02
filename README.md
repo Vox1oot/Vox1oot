@@ -14,7 +14,21 @@
 
 ***  
 
+Here is my studing projects:
+> <a href=https://github.com/Vox1oot/frontend-project-lvl1>Brain games</a>
+
+> <a href=https://github.com/Vox1oot/frontend-project-lvl2>Gendiff</a>
+
+____
+
+<h4>🤝 Connect with me:</h4>
   
+  * <a href=https://t.me/morrsa>Telegram</a>
+  
+  * vox1oot@gmail.com
+  
+  * <a href=https://ru.hexlet.io/u/morsa>Hexlet profile</a>
+
 <!---
 Vox1oot/Vox1oot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
