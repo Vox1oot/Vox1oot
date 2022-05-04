@@ -2,6 +2,7 @@
 <div align="center"><h3>Hi, everyone. I’m Vitaliy 👋</h3></div>
 <div align="center"><h3>At the moment, I am a <a href=https://ru.hexlet.io/>Hexlet</a> programming school student 🎓</h3></div>
 <div align="center"><h3>I aspire to become a front-end developer 💻</h3></div>
+<div align="center"><h2>I'm looking for a job!!</h2></div>
 
 ***
 
