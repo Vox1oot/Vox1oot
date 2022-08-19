@@ -1,27 +1,36 @@
-![banner](Vitaliy.png)
-<div align="center"><h2>Hi, everyone. I’m Vitaliy 👋</h2></div>
-<div align="center"><h3>At the moment, I am a <a href=https://ru.hexlet.io/>Hexlet</a> programming school student 🎓</h3></div>
-<div align="center"><h3>I aspire to become a front-end developer 💻</h3></div>
-<div align="center"><h3>I'm looking for a job!!</h3></div>
+<h1>Hi, everyone. I’m Vitaliy Morzhov 👋</h1>
+<div>
 
-***
+  ![image](https://www.codewars.com/users/vox1oot/badges/small)
+  - :zap: At the moment, I am a <a href=https://ru.hexlet.io/>Hexlet</a> programming school student 🎓
+  - :zap: I aspire to become a front-end developer 💻
+  - :telescope: I'm looking for a job! 
+</div>
 
-<h3>I am currently studying technology:<h3>
-  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack width="40" height="40"/>
+</div>
 
-***  
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vox1oot&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Here is my studing projects:
-> <a href=https://github.com/Vox1oot/frontend-project-lvl1>Brain games</a>
+____
 
-> <a href=https://github.com/Vox1oot/frontend-project-lvl2>Gendiff</a>
-
-> <a href=https://github.com/Vox1oot/frontend-project-lvl3>RSS-aggregator</a>
+### Here are my study projects :
+<div>
+  <a href=https://github.com/Vox1oot/frontend-project-lvl1>Brain games</a>
+  <p>This is a simple console game where you have to give the right answer to 3 different questions.</p>
+  <a href=https://github.com/Vox1oot/frontend-project-lvl2>Gendiff</a>
+  <p>This is a CLI program that displays the data difference of the two files.</p>
+  <a href=https://github.com/Vox1oot/frontend-project-lvl3>RSS-aggregator</a>
+  <p>Web application for automatic collection of messages from sources exporting to RSS formats</p>
+</div>
 
 ____
 
