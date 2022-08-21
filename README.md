@@ -24,12 +24,17 @@ ____
 
 ### Here are my study projects :
 <div>
-  <a href=https://github.com/Vox1oot/frontend-project-lvl1>Brain games</a>
-  <p>This is a simple console game where you have to give the right answer to 3 different questions.</p>
+  <h4><a href=https://github.com/Vox1oot/frontend-project-lvl1>Brain games</a>
+  - This is a simple console game where you have to give the right answer to 3 different questions.
+  </h4>
+  <h4>
   <a href=https://github.com/Vox1oot/frontend-project-lvl2>Gendiff</a>
-  <p>This is a CLI program that displays the data difference of the two files.</p>
+  - This is a CLI program that displays the data difference of the two files.
+  </h4>
+  <h4>
   <a href=https://github.com/Vox1oot/frontend-project-lvl3>RSS-aggregator</a>
-  <p>Web application for automatic collection of messages from sources exporting to RSS formats</p>
+  - Web application for automatic collection of messages from sources exporting to RSS formats.
+  </h4>
 </div>
 
 ____
