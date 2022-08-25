@@ -3,7 +3,7 @@
 
   ![image](https://www.codewars.com/users/vox1oot/badges/small)
   - :zap: At the moment, I am a <a href=https://ru.hexlet.io/>Hexlet</a> programming school student 🎓
-  - :zap: I aspire to become a front-end developer 💻
+  - :zap: I aspire to become a front-end developer 💻. I want to create cool user interfaces 
   - :telescope: I'm looking for a job! 
 </div>
 
