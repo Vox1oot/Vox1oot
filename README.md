@@ -38,15 +38,12 @@ ____
 </div>
 
 ____
-
-<h3>🤝 Connect with me:</h3>
-  
-  * <a href=https://t.me/morrsa>Telegram</a>
-  
-  * voxfoot@gmail.com
-  
-  * <a href=https://ru.hexlet.io/u/morsa>Hexlet profile</a>
-
+<div>
+  <h3>🤝 Connect with me:</h3>
+  <h4>Telegram: <a href=https://t.me/morrsa>@morrsa</a></h4>                                                                                                           
+  <h4>E-Mail: <a href="mailto:voxfoot@gmail.com">voxfoot@gmail.com</a></h4>                                                                                                       
+  <h4>My Hexlet profile: <a href=https://ru.hexlet.io/u/morsa>Hexlet profile</a></h4>
+</div>
 <!---
 Vox1oot/Vox1oot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
