@@ -1,7 +1,7 @@
 <h1>Hi, everyone. I’m Vitaliy Morzhov 👋</h1>
 <div>
 
-  ![image](https://www.codewars.com/users/vox1oot/badges/small)
+  ![image](https://www.codewars.com/users/morrsa/badges/small)
   - :zap: At the moment, I am a <a href=https://ru.hexlet.io/>Hexlet</a> programming school student 🎓
   - :zap: I aspire to become a front-end developer 💻. I want to create cool user interfaces 
   - :telescope: I'm looking for a job! 
