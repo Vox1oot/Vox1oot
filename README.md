@@ -22,7 +22,7 @@
 
 ____
 
-### Here are my study projects :
+### Here are my study & pet projects :
 <div>
   <h4><a href=https://github.com/Vox1oot/frontend-project-lvl1>Brain games</a>
   - This is a simple console game where you have to give the right answer to 3 different questions.
@@ -34,6 +34,10 @@ ____
   <h4>
   <a href=https://github.com/Vox1oot/frontend-project-lvl3>RSS-aggregator</a>
   - Web application for automatic collection of messages from sources exporting to RSS formats.
+  </h4>
+    <h4>
+    <a href=https://github.com/Vox1oot/todo>To-Do list</a>
+  - The simple to-do list application.
   </h4>
 </div>
 
