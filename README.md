@@ -33,7 +33,7 @@ ____
   </h4>
   <h4>
   <a href=https://github.com/Vox1oot/frontend-project-lvl3>RSS-aggregator</a>
-  - Web application for automatic collection of messages from sources exporting to RSS formats.
+  - The web application for automatic collection of messages from sources exporting to RSS formats.
   </h4>
     <h4>
     <a href=https://github.com/Vox1oot/todo>To-Do list</a>
