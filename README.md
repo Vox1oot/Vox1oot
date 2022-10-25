@@ -5,7 +5,7 @@
   - I am a junior Frontend-developer
   - Completed a 10-month frontend development course in Hexlet school - http://hexlet.io/
   - My education: CSU - Computer Science and Engineering
-  - :telescope: I'm looking for a job! 
+  - I'm looking for a job! :telescope
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
