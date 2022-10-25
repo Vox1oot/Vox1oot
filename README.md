@@ -7,7 +7,7 @@
   - My education: CSU - Computer Science and Engineering
 </div>
 
-###  I'm looking for a job! 
+### 🔭: I'm looking for a job! 
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
