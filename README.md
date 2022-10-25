@@ -6,9 +6,9 @@
   - My education: CSU - Computer Science and Engineering
 </div>
 
-### 🔭 I'm looking for a job! 
+#### I'm looking for a job! 
 
-### 🛠️ Languages and Tools:
+#### Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -19,7 +19,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
+#### Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vox1oot&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![image](https://www.codewars.com/users/morrsa/badges/small)
