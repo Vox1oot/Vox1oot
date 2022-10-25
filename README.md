@@ -2,8 +2,8 @@
 <div>
 
   ![image](https://www.codewars.com/users/morrsa/badges/small)
-  - :zap: At the moment, I am a <a href=https://ru.hexlet.io/>Hexlet</a> programming school student 🎓
-  - :zap: I aspire to become a front-end developer 💻. I want to create cool user interfaces 
+  - I am a junior Frontend-developer
+  - Completed a 10-month frontend development course in Hexlet(http://hexlet.io/)
   - :telescope: I'm looking for a job! 
 </div>
 
