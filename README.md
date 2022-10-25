@@ -1,14 +1,15 @@
 <h1>Hi, everyone. I’m Vitaliy Morzhov 👋</h1>
+
 <div>
-  
-  - I am a junior Frontend-developer
-  - Completed a 10-month frontend development course in Hexlet school - http://hexlet.io/
-  - My education: CSU - Computer Science and Engineering
+  <p><b>I am a junior Frontend-developer</b></p>
+  <p><b>Completed a 10-month frontend development course in Hexlet school - http://hexlet.io/</b></p>
+  <p><b>My education: CSU - Computer Science and Engineering</b></p>
+  <p><b>I'm looking for a job</b></p>
 </div>
 
-#### I'm looking for a job! 
+___
 
-#### Languages and Tools:
+### Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -19,7 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React width="40" height="40"/>
 </div>
 
-#### Stats:
+### Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vox1oot&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![image](https://www.codewars.com/users/morrsa/badges/small)
@@ -29,15 +30,15 @@ ____
 ### Here are my study & pet projects :
 <div>
   <h4><a href=https://github.com/Vox1oot/frontend-project-lvl1>Brain games</a>
-  - This is a simple console game where you have to give the right answer to 3 different questions.
+  - The console game in the format: question - answer.
   </h4>
   <h4>
   <a href=https://github.com/Vox1oot/frontend-project-lvl2>Gendiff</a>
-  - This is a CLI program that displays the data difference of the two files.
+  - The console utility designed to calculate and display the difference between two data structures. The utility can display the difference in 2 formats.
   </h4>
   <h4>
   <a href=https://github.com/Vox1oot/frontend-project-lvl3>RSS-aggregator</a>
-  - The web application for automatic collection of messages from sources exporting to RSS formats.
+  - The SPA application for the aggregation of RSS feeds. The app receives a source as input, checks the source for updates every 5 seconds, and allows you to read each post as a short description, and a direct link to the specific post.
   </h4>
     <h4>
     <a href=https://github.com/Vox1oot/todo>To-Do list</a>
