@@ -7,9 +7,9 @@
   - My education: CSU - Computer Science and Engineering
 </div>
 
-### 🔭: I'm looking for a job! 
+#### 🔭 I'm looking for a job! 
 
-### :hammer_and_wrench: Languages and Tools :
+### hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
