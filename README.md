@@ -1,5 +1,6 @@
 <h1>Hi, everyone. I’m Vitaliy Morzhov 👋</h1>
 <div>
+  
   ![image](https://www.codewars.com/users/morrsa/badges/small)
   - I am a junior Frontend-developer
   - Completed a 10-month frontend development course in Hexlet school - http://hexlet.io/
