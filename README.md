@@ -29,25 +29,30 @@ ____
 
 ### Here are my study & pet projects :
 <div>
-  <h4><a href=https://github.com/Vox1oot/frontend-project-lvl1>Brain games</a>
-  - The console game in the format: question - answer.
-  </h4>
-  <h4>
-  <a href=https://github.com/Vox1oot/frontend-project-lvl2>Gendiff</a>
-  - The console utility designed to calculate and display the difference between two data structures. The utility can display the difference in 2 formats.
-  </h4>
-  <h4>
-  <a href=https://github.com/Vox1oot/frontend-project-lvl3>RSS-aggregator</a>
-  - The SPA application for the aggregation of RSS feeds. The app receives a source as input, checks the source for updates every 5 seconds, and allows you to read each post as a short description, and a direct link to the specific post.
-  </h4>
   <h4>
     <a href=https://github.com/Vox1oot/frontend-project-12>Chat (Slack)</a>
-    - The Chat (Slack). Simplified version.
+    - The live chat like (Slack). Simplified version.
   </h4>
+  <h4>
+    <a href=https://github.com/Vox1oot/Adesk>Adaptive home page Adesk</a>
+    - Main adaptive page for Adesk company.
+  </h4>
+  <h4>
+    <a href=https://github.com/Vox1oot/frontend-project-lvl3>RSS-aggregator</a>
+    - The SPA application for the aggregation of RSS feeds. The app receives a source as input, checks the source for updates every 5 seconds, and allows you to read   each post as a short description, and a direct link to the specific post.
+  </h4>                                                                                                                      
   <h4>
    <a href=https://github.com/Vox1oot/todo>To-Do list</a>
   - The simple to-do list application.
   </h4>
+  <h4>
+    <a href=https://github.com/Vox1oot/frontend-project-lvl2>Gendiff</a>
+    - The console utility designed to calculate and display the difference between two data structures. The utility can display the difference in 2 formats.
+  </h4>
+  <h4>
+    <a href=https://github.com/Vox1oot/frontend-project-lvl1>Brain games</a>
+    - The console game in the format: question - answer.
+  </h4>                                                                                                                         
 </div>
 
 ____
