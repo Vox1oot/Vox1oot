@@ -39,7 +39,7 @@ ____
   </h4>
   <h4>
     <a href=https://github.com/Vox1oot/frontend-project-lvl3>RSS-aggregator</a>
-    - The SPA application for the aggregation of RSS feeds. The app receives a source as input, checks the source for updates every 5 seconds, and allows you to read   each post as a short description, and a direct link to the specific post.
+    - The application for the aggregation of RSS feeds. The app receives a source as input, checks the source for updates every 5 seconds, and allows you to read   each post as a short description, and a direct link to the specific post.
   </h4>                                                                                                                      
   <h4>
    <a href=https://github.com/Vox1oot/todo>To-Do list</a>
