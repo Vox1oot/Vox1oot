@@ -29,15 +29,11 @@ ___
 
 ____
 
-### Here are my study & pet projects :
+### My projects :
 <div>
   <h4>
     <a href=https://github.com/Vox1oot/frontend-project-12>Chat (Slack)</a>
     - The live chat like (Slack). Simplified version.
-  </h4>
-  <h4>
-    <a href=https://github.com/Vox1oot/Adesk>Adaptive home page Adesk</a>
-    - Main adaptive page for Adesk company.
   </h4>
   <h4>
     <a href=https://github.com/Vox1oot/frontend-project-lvl3>RSS-aggregator</a>
@@ -55,8 +51,13 @@ ____
     <a href=https://github.com/Vox1oot/frontend-project-lvl1>Brain games</a>
     - The console game in the format: question - answer.
   </h4>                                                                                                                         
-</div>
-
+</div>  
+                                                                                                                                                                                                                                         
+<h4>
+  <a href=https://github.com/Vox1oot/Adesk>Adaptive home page Adesk</a>
+   - The adaptive main page Adesk.
+</h4>
+                                                                                                                                
 ____
 <div>
   <h3>🤝 Connect with me:</h3>
