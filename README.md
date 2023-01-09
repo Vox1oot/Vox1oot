@@ -66,7 +66,9 @@ ____
  <a href=https://github.com/Vox1oot/guru-group>Cards</a>
    - A test task for Guru Group. Сard rendering
 </h4>
+                                                                                                                                
 ____
+                                                                                                                                
 <div>
   <h3>🤝 Connect with me:</h3>
   <h4>Telegram: <a href=https://t.me/morrsa>@morrsa</a></h4>                                                                                                           
