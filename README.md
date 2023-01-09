@@ -29,35 +29,35 @@ ___
 
 ____
 
-### My projects :
+### My Hexlet projects :
 <div>
   <h4>
     <a href=https://github.com/Vox1oot/frontend-project-12>Chat (Slack)</a>
-    - The live chat like (Slack). Simplified version.
+    - A live chat like (Slack). Simplified version. Thesis project!
   </h4>
   <h4>
     <a href=https://github.com/Vox1oot/frontend-project-lvl3>RSS-aggregator</a>
-    - The application for the aggregation of RSS feeds. The app receives a source as input, checks the source for updates every 5 seconds, and allows you to read   each post as a short description, and a direct link to the specific post.
+    - An application for the aggregation of RSS feeds. The app receives a source as input, checks the source for updates every 5 seconds, and allows you to read   each post as a short description, and a direct link to the specific post.
   </h4>                                                                                                                      
   <h4>
-   <a href=https://github.com/Vox1oot/todo>To-Do list</a>
-  - The simple to-do list application.
-  </h4>
-  <h4>
     <a href=https://github.com/Vox1oot/frontend-project-lvl2>Gendiff</a>
-    - The console utility designed to calculate and display the difference between two data structures. The utility can display the difference in 2 formats.
+    - A console utility designed to calculate and display the difference between two data structures. The utility can display the difference in 2 formats.
   </h4>
   <h4>
     <a href=https://github.com/Vox1oot/frontend-project-lvl1>Brain games</a>
-    - The console game in the format: question - answer.
+    - A console game in the format: question - answer.
   </h4>                                                                                                                         
-</div>  
-                                                                                                                                                                                                                                         
+</div>
+                                                                                                                                
+### Test tasks:                                                                                                                 
 <h4>
   <a href=https://github.com/Vox1oot/Adesk>Adaptive home page Adesk</a>
-   - The adaptive main page Adesk.
+   - An adaptive main page for Adesk company.
 </h4>
-                                                                                                                                
+<h4>
+ <a href=https://github.com/Vox1oot/alfa-test>Alfa-bank</a>
+   - A test task for Alfa-bank internship.
+</h4>                                                                                                                            
 ____
 <div>
   <h3>🤝 Connect with me:</h3>
