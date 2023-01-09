@@ -57,7 +57,15 @@ ____
 <h4>
  <a href=https://github.com/Vox1oot/alfa-test>Alfa-bank</a>
    - A test task for Alfa-bank internship.
-</h4>                                                                                                                            
+</h4>
+<h4>
+ <a href=https://github.com/Vox1oot/digital-patners-global>Form</a>
+   - A test task for Digital Patners Global. Form layout and validation
+</h4>
+ <h4>
+ <a href=https://github.com/Vox1oot/guru-group>Cards</a>
+   - A test task for Guru Group. Сard rendering
+</h4>
 ____
 <div>
   <h3>🤝 Connect with me:</h3>
