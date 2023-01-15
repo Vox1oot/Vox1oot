@@ -49,6 +49,12 @@ ____
   </h4>                                                                                                                         
 </div>
                                                                                                                                 
+### My pet projects:
+<h4>
+   <a href=https://github.com/Vox1oot/dashboard>Dashboard</a>
+    - A simple dashboard application.
+</h4>        
+                                                                                                                                
 ### Test tasks:                                                                                                                 
 <h4>
   <a href=https://github.com/Vox1oot/Adesk>Adaptive home page Adesk</a>
