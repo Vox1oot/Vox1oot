@@ -55,7 +55,11 @@ ____
     - A simple dashboard application.
 </h4>        
                                                                                                                                 
-### Test tasks:                                                                                                                 
+### Test tasks:
+<h4>
+  <a href=https://github.com/Vox1oot/vending-machine>Vending machine</a>
+   - A vending machine app.
+</h4>
 <h4>
   <a href=https://github.com/Vox1oot/Adesk>Adaptive home page Adesk</a>
    - An adaptive main page for Adesk company.
