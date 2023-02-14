@@ -61,6 +61,10 @@ ____
                                                                                                                                 
 ### Test tasks:
 <h4>
+  <a href=https://github.com/Vox1oot/next>The Golden Fleece</a>
+   - A simple application for The Golden Fleece company.
+</h4>
+<h4>
   <a href=https://github.com/Vox1oot/vending-machine>Vending machine</a>
    - A vending machine app.
 </h4>
