@@ -51,6 +51,10 @@ ____
                                                                                                                                 
 ### My pet projects:
 <h4>
+   <a href=https://github.com/Vox1oot/calculator>Calculator</a>
+    - A calculator application.
+</h4>  
+<h4>
    <a href=https://github.com/Vox1oot/modern-website>Hoobank website</a>
     - An adaptive modern Hoobank website.
 </h4>  
