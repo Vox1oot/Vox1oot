@@ -1,8 +1,7 @@
 <h1>Hi, everyone. I’m Vitaliy Morzhov 👋</h1>
 
 <div>
-  <p><b>I am a junior frontend-developer</b></p>
-  <p><b>Completed a 10-month frontend development course in Hexlet school - http://hexlet.io/</b></p>
+  <p><b>I am a frontend-developer</b></p>
   <p><b>My education: CSU - Computer Science and Engineering</b></p>
   <p><b>I'm looking for a job</b></p>
 </div>
