@@ -57,34 +57,7 @@ ____
 <h4>
    <a href=https://github.com/Vox1oot/modern-website>Hoobank website</a>
     - An adaptive modern Hoobank website.
-</h4>        
-                                                                                                                                
-### Test tasks:
-<h4>
-  <a href=https://github.com/Vox1oot/next>The Golden Fleece</a>
-   - A simple application for The Golden Fleece company.
-</h4>
-<h4>
-  <a href=https://github.com/Vox1oot/vending-machine>Vending machine</a>
-   - A vending machine app.
-</h4>
-<h4>
-  <a href=https://github.com/Vox1oot/Adesk>Adaptive home page Adesk</a>
-   - An adaptive main page for Adesk company.
-</h4>
-<h4>
- <a href=https://github.com/Vox1oot/alfa-test>Alfa-bank</a>
-   - A test task for Alfa-bank internship.
-</h4>
-<h4>
- <a href=https://github.com/Vox1oot/digital-patners-global>Form</a>
-   - A test task for Digital Patners Global. Form layout and validation
-</h4>
- <h4>
- <a href=https://github.com/Vox1oot/guru-group>Cards</a>
-   - A test task for Guru Group. Сard rendering
-</h4>
-                                                                                                                                
+</h4>                                                                                                                                                                                                                                                       
 ____
                                                                                                                                 
 <div>
