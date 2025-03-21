@@ -1,5 +1,7 @@
 <h1>Hi, everyone. I’m Vitaliy Morzhov 👋</h1>
 
+![image](https://www.codewars.com/users/morrsa/badges/small)   
+
 ### Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"/>
@@ -13,25 +15,8 @@
 </div>
 
 ### Stats:                                                                                                                               
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vox1oot&layout=compact)](https://github.com/anuraghazra/github-readme-stats)                                                                                                                         
-                                                                                                                                
-
-![image](https://www.codewars.com/users/morrsa/badges/small)
-                                                                                                                                
-### My pet projects:
-<h4>
-   <a href=https://github.com/Vox1oot/calculator>Calculator</a>
-    - A calculator application.
-</h4>  
-<h4>
-   <a href=https://github.com/Vox1oot/modern-website>Hoobank website</a>
-    - An adaptive modern Hoobank website.
-</h4>
-<h4>
-    <a href=https://github.com/Vox1oot/frontend-project-12>Chat (Slack)</a>
-    - A live chat like (Slack). Simplified version. Thesis project!
-</h4>
-                                                                                                                                
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vox1oot&layout=compact)](https://github.com/anuraghazra/github-readme-stats)                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                          
 <div>
   <h3>🤝 Connect with me:</h3>
   <h4>Telegram: <a href=https://t.me/morrsa>@morrsa</a></h4>                                                                                                           
