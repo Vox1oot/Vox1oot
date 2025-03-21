@@ -1,13 +1,5 @@
 <h1>Hi, everyone. I’m Vitaliy Morzhov 👋</h1>
 
-<div>
-  <p><b>I am a frontend-developer</b></p>
-  <p><b>My education: CSU - Computer Science and Engineering</b></p>
-  <p><b>I'm looking for a job</b></p>
-</div>
-
-___
-
 ### Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"/>
